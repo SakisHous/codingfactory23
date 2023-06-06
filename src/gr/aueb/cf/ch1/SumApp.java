@@ -8,6 +8,6 @@ public class SumApp {
 
         sum = num1 + num2;
 
-        System.out.println("Το αποτέλεσμα της πρόσθεσης είναι ίσο με " + sum);
+        System.out.println("The result is" + sum);
     }
 }

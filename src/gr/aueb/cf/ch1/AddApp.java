@@ -2,8 +2,7 @@ package gr.aueb.cf.ch1;
 
 import java.lang.*;
 /**
- * προσθέτει δύο ακεραίους και εμφανιζει
- * το αποτελέσμα στο stdout
+ * Adds two numbers
  */
 public class AddApp {
     public static void main(String[] args) {
